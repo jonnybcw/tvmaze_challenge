@@ -1,4 +1,4 @@
-# Jobsity - Flutter Challenge TVMaze
+# Flutter Challenge - TVMaze App
 
 Developed by Jonny Eduardo Banach
 
